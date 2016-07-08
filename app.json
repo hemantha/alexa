@@ -1,0 +1,8 @@
+{
+  "name": "alexaapp",
+  "description": "A testing application for alexa",
+  "repository": "https://github.com/hemantha/alexaapp.git",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["alexa", "hemantha", "static"],
+  "image": "heroku/alexaapp"
+}
