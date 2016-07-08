@@ -7,4 +7,3 @@
       Amazon Echo Application Testing
     </p>
 </a>
-
